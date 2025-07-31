@@ -29,6 +29,7 @@
 ![image](https://github.com/user-attachments/assets/67e1c592-7d8b-438f-869b-248f0840908c)
 
 
+[🔗 Live Demo on Netlify](https://streaming-website-mainpage-clone.netlify.app/)
 
 
 
